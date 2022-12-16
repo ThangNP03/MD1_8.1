@@ -1,0 +1,41 @@
+td{
+    text-align: center;
+}
+.edit{
+    background-color: blue !important;
+    color: #fff;
+    border-radius: 6px  ;
+
+}
+.delete{
+    background-color: red !important;
+    color: #fff;
+    border-radius: 6px  ;
+
+}
+table {
+    border-collapse: collapse;
+    margin-top: 10px;
+    width: 100%;
+}
+table th, td {
+    border: 1px solid black;
+    padding : 10px
+}
+button{
+
+    border-radius: 6px;
+    color: #fff;
+}
+.creat{
+    background-color: green;
+}
+.search{
+    background-color:#81ce09 ;
+}
+.edit{
+    background-color: blue;
+}
+.delete{
+    background-color: red;
+}
